@@ -14,3 +14,9 @@ expo start
 - Delete TODO from Completed List.
 
 ![TODO app by gamingumar.com](assets/todo-app-shot.png)
+
+### TODO
+- Implement Async Storage
+- Edit TODO
+- Move item back to TODO list from Completed
+- Change order of todos.
