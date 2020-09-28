@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Simple TODO app.\n- create a todo\n- complete it\n- delete it",
+    "githubUrl": "https://github.com/gamingumar/todo-app"
   }
 }
